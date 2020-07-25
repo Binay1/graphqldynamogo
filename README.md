@@ -1,0 +1,1 @@
+This is an old graphql API that I made when I was learning golang. It uses DynamoDB.
